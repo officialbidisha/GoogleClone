@@ -3,7 +3,8 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 Visit https://google-cloneq-m78il8ifb-officialbidisha.vercel.app for the application screen
 
-<img width="949" alt="googleclone" src="https://user-images.githubusercontent.com/49115207/171644686-388140f6-8047-4186-9f14-ce094dd76dec.png">
+![screely-1654177914208](https://user-images.githubusercontent.com/49115207/171644952-a91030be-2a7f-4c3b-8334-0a3ac921e27a.png)
+
 
 
 ## Getting Started
