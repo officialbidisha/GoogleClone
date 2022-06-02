@@ -11,6 +11,7 @@ export default NextAuth({
     }),
     // ...add more providers here
   ],
+  secret: 'eoejoejoejoejoeoeepeopenpoe',
   pages:{
     signIn: "/auth/signin"
   },
