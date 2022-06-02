@@ -5,7 +5,7 @@ import ImageResults from "../components/ImageResult";
 
 import { useRouter } from "next/router";
 
-const search = ({results}) => {
+const Search = ({results}) => {
     const router = useRouter();
 
   return (
@@ -42,4 +42,4 @@ export async function getServerSideProps(context) {
   }
 }
 
-export default search;
+export default Search;
